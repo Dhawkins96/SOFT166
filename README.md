@@ -49,9 +49,23 @@ That’s all you need to know for the Password Strength Checker but if the user 
 
 The Final page I haven't explained yet is just the About page and it the same as both the Main Page Index and the Light Key Index as its very simple and you don't have to click on anything unless to move to another webpage to move to. Here you can just read the about paragraphs about myself and the project together and after that you would understand every page.
 
-## Testing of Web Accessibility Initiative (WAI)
+### Testing of Web Accessibility Initiative (WAI)
 
 When testing the accessibility of my website I tried a few things, I turned on my text to speech function on my laptop to test what would be read out and this worked very well. Although with this you don’t get the full functions of the checkboxes and I was never able to add a button to preform this task. So, to be able to have this function you would have to already have the software downloaded to the machine they were using.
 
+![Dark Password](https://github.com/Dhawkins96/SOFT166/blob/master/pass%20dark.png)
 
+I also switched my contrast on my laptop as I know it helps some people to help them see better. My website and all the pages all still worked and there was nothing you couldn’t see or got altered so it was incorrect.
 
+### Working on Different Applications
+
+The picture you can see above are shown from a Google Chrome application but this website works on every application I could find, for example;
+* Google Chrome (as seen above)
+* Firefox (examples below)
+* Edge
+* Internet Explorer
+* Safari
+
+![Firefox Pass](https://github.com/Dhawkins96/SOFT166/blob/master/2020-01-09%20(13).png)
+
+I hope you enjoy the website and have a good day :)
